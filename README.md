@@ -9,6 +9,6 @@
 
 ## 스터디원
 - [샛별](https://github.com/sbyeol3) : 자바스크립트 그리고 알고리즘 👀
-- [성아](https://github.com/seongahjo)
+- [성아](https://github.com/seongahjo) : DDD 기초 이해
 - [기람](https://github.com/angrycatjenny) : CS 기초지식 이해 ✨
 - [유림](https://github.com/anyl92)
