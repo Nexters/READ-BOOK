@@ -16,4 +16,4 @@
 - [성아](https://github.com/seongahjo) : DDD 기초 이해
 - [기람](https://github.com/angrycatjenny) : CS 기초지식 이해 ✨
 - [유림](https://github.com/anyl92) : JAVA 격파 ✌🏻
-
+- [상우](https://github.com/riflockle7) : [안드로이드 프로그래밍 Next Step](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263073&orderClick=LAG&Kc=) | [소프트 스킬](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186659885&orderClick=LAG&Kc=)
