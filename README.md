@@ -16,4 +16,4 @@
 - [성아](https://github.com/seongahjo) : DDD 기초 이해
 - [기람](https://github.com/angrycatjenny) : CS 기초지식 이해 ✨
 - [유림](https://github.com/anyl92) : JAVA 격파 ✌🏻
-
+- [영준](https://github.com/jun108059) : 스프링 박살내기 👊
