@@ -18,3 +18,4 @@
 - [유림](https://github.com/anyl92) : JAVA 격파 ✌🏻
 - [상우](https://github.com/riflockle7) : [안드로이드 프로그래밍 Next Step](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263073&orderClick=LAG&Kc=) | [소프트 스킬](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186659885&orderClick=LAG&Kc=)
 - [영준](https://github.com/jun108059) : 스프링 박살내기 👊
+- [소정](https://github.com/sojeongw) : 객체 지향의 사실과 오해
