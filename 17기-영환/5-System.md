@@ -37,3 +37,25 @@ public class Hello {
 JRE는 JVM 과 Java API 를 제공한다.
 
 JVM 은 사용자가 작성 한 바이트 코드를 분석 및 실행을 담당하며, 해당 과정에서 소위 'T 메모리 구조' 라는 영역에 클래스, 메소드, 인스턴스 등이 배치하게 되는데, 클래스가 위치하는 'static 영역' 에 'java.lang' 패키지의 클래스들이 위치하게 되어 무탈하게 사용할 수 있게 된 것이다.
+
+> JVM의 역할은 자바 애플리케이션을 클래스 로더를 통해 읽어 들여서 자바 API와 함께 실행하는 것 - d2.naver.com/helloworld/1230
+
+```
+* JDK (Java Development Kit)
+: 보통 JDK 를 '설치한다' 라고 말한다.
+
+* JRE (Java Runtime Environment)
+: 자바 실행 환경울 '구현, 구축' 한다고 말한다.
+
+* JVM (Java Virtual Machine)
+: 자바 바이너리 파일(.class)을 '실행, 동작' 한다고 말한다.
+
+JVM < JRE < JDK 순으로 상위 레벨로 하위 레벨을 포함하며, 상위 레벨은 하위 레벨의 모든 것을 포함하여 말할 수 있다.
+
+예를들어, JRE 위에서 자바 바이트 코드가 동작한다고 말할 수 있다. (JRE 는 JVM 을 포함)
+```
+
+--- 
+> 참고자료
+* [생활코딩 - Java API](https://opentutorials.org/course/2517/14137)
+* [NAVER D2 - JVM Internal](https://d2.naver.com/helloworld/1230)
